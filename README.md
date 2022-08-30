@@ -1,7 +1,7 @@
-### Hi, My name is Bernard. 
+### Hi, I'm Bernard 👋 
 
-- I am an aspiring software developer. 
-- I currently work as an I.T technician.
+- I am an aspiring software developer
+- I currently work as an I.T technician
 
 <!---
 Bernard199/Bernard199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
