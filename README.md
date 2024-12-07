@@ -1,4 +1,4 @@
-### Hi, I'm Bernard 👋 
+### Hi, I'm Bernard 
 
 - I am an aspiring software developer
 - I currently work as an I.T technician
